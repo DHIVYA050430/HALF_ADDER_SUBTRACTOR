@@ -55,7 +55,8 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-
 **Output/TIMING Waveform**
+![waveform 3](https://github.com/DHIVYA050430/HALF_ADDER_SUBTRACTOR/assets/147141546/29c9b547-5bb1-4594-9023-dd14266e84a5)
+![waveform3 2](https://github.com/DHIVYA050430/HALF_ADDER_SUBTRACTOR/assets/147141546/c278378a-658a-4950-baae-f3cbb6583d91)
 
 **Result:**
