@@ -67,8 +67,9 @@ output D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow
 assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
-```
 Developed by:DIVYA E RegisterNumber:*/212223230050
+```
+![comb](https://github.com/DHIVYA050430/HALF_ADDER_SUBTRACTOR/assets/147141546/d52d3953-74eb-45b8-ab25-2b2832989482)
 
 **RTL Schematic**
 **Output/TIMING Waveform**
